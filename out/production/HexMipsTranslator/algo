@@ -1,0 +1,16 @@
+
+
+Example 1:
+Input:02324022
+Outputs:Instruction
+Format: R
+Operation: subSource
+Registers: 17, 18
+Destination Register: 8
+Shift amount: 0
+Constant/Offset: none
+
+
+6           5      5     5        5     6
+
+0000000   00010  00011  00010  00100  00000  00010 00010
